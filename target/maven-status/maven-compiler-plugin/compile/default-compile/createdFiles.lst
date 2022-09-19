@@ -1,0 +1,14 @@
+com\function\model\Category.class
+com\function\Enum\CategoryEnumId.class
+com\function\dto\CharacteristicDTO.class
+com\function\dto\CategoryDTO.class
+com\function\model\Amount.class
+com\function\repository\CouponRepositoryImpl.class
+com\function\Enum\TypesEnum.class
+com\function\model\Characteristic.class
+com\function\model\Coupon.class
+com\function\Enum\CategoryEnumName.class
+com\function\Function.class
+com\function\dto\CouponDTO.class
+com\function\converter\CouponDTOConverter.class
+com\function\dto\AmountDTO.class
