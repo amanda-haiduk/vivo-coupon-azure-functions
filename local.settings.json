@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "couponName":"Cupon VivoPlay",
+    "couponId":"444444",
+    "couponActivationCode":"112232",
+    "couponStartDate":"2022-02-20T19:10:37.768Z",
+    "couponEndDate":"2022-03-20T19:10:37.768Z",
+    "couponCategoriesName":"voucher_vivo_play_welcome",
+    "couponCategoriesId":"voucher",
+    "couponCharacteristicsDescription":"coupon for VivoPlay",
+    "couponCharacteristicsType":"one_off",
+    "couponCharacteristicsAmountValue":"-14.90",
+    "couponCharacteristicsAmountCurrency":"BRL",
+    "couponCharacteristicsAmountTaxIncluded":"true"
+  }
+}

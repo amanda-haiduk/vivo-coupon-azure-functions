@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.function.FunctionTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.798 sec <<< FAILURE!
+com.function.FunctionTest.testHttpTriggerJava()  Time elapsed: 1.796 sec  <<< FAILURE!
+java.lang.NullPointerException: Name is null
+	at java.base/java.lang.Enum.valueOf(Enum.java:238)
+	at com.function.Enum.CategoryEnumId.valueOf(CategoryEnumId.java:3)
+	at com.function.repository.CouponRepositoryImpl.findCouponsWelcome(CouponRepositoryImpl.java:37)
+	at com.function.Function.run(Function.java:55)
+	at com.function.FunctionTest.testHttpTriggerJava(FunctionTest.java:61)
+
